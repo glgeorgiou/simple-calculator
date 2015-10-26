@@ -10,7 +10,7 @@
 	<div class="content">
     
 <!-- The calculator form-->
-<form name="form1" method="post" action="mycalc.php">
+<form name="form1" method="post" action="<?php echo $_SERVER['PHP_SELF']; ?>">
   <table border="0">
     <tr>
       <td>Number 1</td>
