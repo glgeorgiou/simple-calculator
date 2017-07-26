@@ -1,4 +1,4 @@
-============== HTML ======================
+============== HTML =============
 <html>
 <head>
 <title>Simple calculator</title>
@@ -25,7 +25,7 @@
 </html>
 
 
-=======================CSS===================
+===============CSS========
 @charset "utf-8";
 * {
 	padding:0;
@@ -61,4 +61,4 @@ body {
 	margin-bottom:10px;
 }
 
-Test text for git changes
+JS IN THE FUTURE
