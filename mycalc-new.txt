@@ -25,7 +25,7 @@
 </html>
 
 
-=======CSS==================================
+=======================CSS===================
 @charset "utf-8";
 * {
 	padding:0;
@@ -60,3 +60,5 @@ body {
 	height:20px;
 	margin-bottom:10px;
 }
+
+Test text for git changes
