@@ -6,21 +6,16 @@
 </head>
 
 <body>
-
 <div id="container">
 	<div id="row">
     </div>
-
 	<div id="row">
     </div>
-
 	<div id="row">
     </div>
-
 	<div id="row">
     </div>
 </div>
-
 </body>
 </html>
 
