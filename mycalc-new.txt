@@ -56,4 +56,4 @@ body {
 	margin-bottom:10px;
 }
 
-JS IN THE FUTURE
+JS IN THE FUTURE.
